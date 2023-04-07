@@ -11,9 +11,9 @@ The objective of this project is to analyze customer ratings for EMO electric mo
 ## Methodology
 To achieve the objective, we will use a supervised learning algorithm called logistic regression to build a classification model that can predict whether a rating came from an owner or a non-owner. The following steps will be taken in the methodology:
 
-**Data Collection **: The customer ratings data from EMO's website was already given, including data such as the rating score, the reviewer's name, and the reviewer's ownership status (owner/non-owner). The dataset also includes other relevant information such as the make and model of the moped, the month of the review, the web browser used by the reviewer, the age of the reviewer, and the primary use of the moped.
+**Data Collection**: The customer ratings data from EMO's website was already given, including data such as the rating score, the reviewer's name, and the reviewer's ownership status (owner/non-owner). The dataset also includes other relevant information such as the make and model of the moped, the month of the review, the web browser used by the reviewer, the age of the reviewer, and the primary use of the moped.
 
-**Data Cleaning ** : We will clean the data to remove any missing or incorrect values and remove duplicates.
+**Data Cleaning** : We will clean the data to remove any missing or incorrect values and remove duplicates.
 
 **Feature Engineering**: We will create new features that could help improve the classification model's performance, such as the number of times a reviewer has rated EMO's motorcycles, the reviewer's location, and the type of motorcycle reviewed.
 
